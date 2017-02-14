@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SunopsisExport>
+<Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="XXG8MicEqb0KaIpEDY3gpg==" exportKeySalt="193a4386-cd7c-473c-9bf6-0a2a44b45c86" containsCipherText="false"/>
+<Object class="com.sunopsis.dwg.dbobj.SnpConnect">
+		<Field name="AuthenMethod" type="java.lang.String">null</Field>
+	<Field name="BatchUpdateSize" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
+	<Field name="Classpath" type="java.lang.String">null</Field>
+	<Field name="ConnectType" type="java.lang.String"><![CDATA[D]]></Field>
+	<Field name="ConName" type="java.lang.String"><![CDATA[ORACLE_ORCL_LOCAL]]></Field>
+	<Field name="DservName" type="java.lang.String"><![CDATA[ORCL]]></Field>
+	<Field name="FetchArrayServ" type="com.sunopsis.sql.DbInt"><![CDATA[30]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2015-11-11 09:38:48.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[702e1a6d-0bfe-4eda-8ea9-6ca09e03ee92]]></Field>
+	<Field name="HadoopJobTrackerUri" type="java.lang.String">null</Field>
+	<Field name="HadoopNameNodeUri" type="java.lang.String">null</Field>
+	<Field name="HadoopOdiRoot" type="java.lang.String">null</Field>
+	<Field name="HbaseQuorum" type="java.lang.String">null</Field>
+	<Field name="HiveMsUri" type="java.lang.String">null</Field>
+	<Field name="IdentityDomainName" type="java.lang.String">null</Field>
+	<Field name="IndJndi" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IConnect" type="com.sunopsis.sql.DbInt"><![CDATA[33]]></Field>
+	<Field name="IHost" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITechno" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
+	<Field name="ITxtJavaUrl" type="com.sunopsis.sql.DbInt"><![CDATA[3971]]></Field>
+	<Field name="ITxtJndiUrl" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtWsBaseUrl" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="JagentHost" type="java.lang.String">null</Field>
+	<Field name="JagentMgrPort" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="JagentPort" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="JavaDriver" type="java.lang.String"><![CDATA[oracle.jdbc.OracleDriver]]></Field>
+	<Field name="JndiAuthent" type="java.lang.String">null</Field>
+	<Field name="JndiFactory" type="java.lang.String">null</Field>
+	<Field name="JndiProto" type="java.lang.String">null</Field>
+	<Field name="JndiPwd" type="java.lang.String">null</Field>
+	<Field name="JndiRessource" type="java.lang.String"><![CDATA[/dataload/v1]]></Field>
+	<Field name="JndiUser" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-01-11 08:44:43.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
+	<Field name="OggInstallPath" type="java.lang.String">null</Field>
+	<Field name="OnConApplyCond" type="java.lang.String">null</Field>
+	<Field name="OnConCmd" type="java.lang.String">null</Field>
+	<Field name="OnConIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OnConIndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OnConLogLevel" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="OnDcnApplyCond" type="java.lang.String">null</Field>
+	<Field name="OnDcnCmd" type="java.lang.String">null</Field>
+	<Field name="OnDcnIndCommit" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OnDcnIndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="OnDcnLogLevel" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="ParIConnect" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Pass" type="java.lang.String">null</Field>
+	<Field name="PigExecType" type="java.lang.String">null</Field>
+	<Field name="TgtParallelConfig" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="UserName" type="java.lang.String"><![CDATA[ODI_STAGING]]></Field>
+	<Field name="WsDeployMode" type="java.lang.String"><![CDATA[U]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpMtxt">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="EncKeyVect" type="java.lang.String">null</Field>
+	<Field name="FullTxt" type="java.lang.String"><![CDATA[jdbc:oracle:thin:@localhost:1521:orcl]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[6e755c9d-c4a5-4e51-af58-ebca752cce8b]]></Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[3971]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="Txt" type="java.lang.String"><![CDATA[jdbc:oracle:thin:@localhost:1521:orcl]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[ORACLE_ORCL_LOCAL.MANUFACTURINGDB]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[21c7a933-50b1-4dd0-8614-1935ec95e267]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f7a83d8c7dcf17421d002009c430202b390a47b9]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_ORACLE_ORCL_LOCAL_MANUFACTURINGDB.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Data Warehouse.ODI_STAGING]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[1a77e89f-dc58-409e-aa56-9e8216b7e12d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f7a83d8c7dcf17421d002009c430202b390a47b9]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_Data_Warehouse_ODI_STAGING.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpPschema]]></Field>
+	<Field name="SubType" type="java.lang.String">null</Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[Data Warehouse.ODI_TARGET_GENERIC]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[38b4d314-3244-4fb6-9a7f-50307bedf4c2]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f7a83d8c7dcf17421d002009c430202b390a47b9]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[PSC_Data_Warehouse_ODI_TARGET_GENERIC.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_TECHNO.32]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[e9120718-5b1e-3e9c-b3b9-28317b288494]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String"><![CDATA[Oracle]]></Field>
+ <Field name="RefObjFQType" type="java.lang.String"><![CDATA[SNP_TECHNO]]></Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String"><![CDATA[6]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
+		<Field name="RefKey" type="java.lang.String"><![CDATA[SNP_MTXT.3971]]></Field>
+	<Field name="RefObjGlobalId" type="java.lang.String"><![CDATA[6e755c9d-c4a5-4e51-af58-ebca752cce8b]]></Field>
+ <Field name="RefObjFQName" type="java.lang.String">null</Field>
+ <Field name="RefObjFQType" type="java.lang.String">null</Field>
+ <Field name="RefObjFQNameLengths" type="java.lang.String">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpMImportRep">
+		<Field name="GlobalId" type="java.lang.String"><![CDATA[9e71da53-6375-42df-aa0c-f24bb0e7683e]]></Field>
+	<Field name="RepGuid" type="java.lang.String"><![CDATA[359f8e51-151f-3f44-a2c1-a359ef69df90]]></Field>
+	<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1378746218641]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.05]]></Field>
+</Object>
+</SunopsisExport>
